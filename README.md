@@ -6,7 +6,7 @@ A Django REST Framework service for managing insurance coverages and customer-se
 
 1. **Clone the repository:**
    ```
-   git clone <your-repo-url>
+   git clone  https://github.com/buromlangshylla/coverage-service.git
    cd coverage-service
    ```
 
